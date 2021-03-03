@@ -7,7 +7,7 @@ Notice
 This is a github clone of the ["cppcrypto" library](https://sourceforge.net/projects/cppcrypto/files/) by [kerukuro](https://sourceforge.net/u/kerukuro/profile/) on Sourceforge in an effort to make the code more searchable.
 
 This source is being redistributed in compliance with the BSD license of the project and other applicable code licenses.
-Please refer to the [project license](https://github.com/crashdemons/cppcrypto/blob/master/LICENSE] before using.
+Please refer to the [project license](https://github.com/crashdemons/cppcrypto/blob/master/LICENSE) before using.
 
 All credit for this code goes to kerukuro and the respective authors.
 
